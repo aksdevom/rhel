@@ -1,5 +1,5 @@
-# rhel
-Server Configurations
-FTP
-YUM
+# rhel9
+Server Configurations for
+FTP,
+YUM, and
 Samba
